@@ -146,7 +146,6 @@ curl -X GET http://localhost:5000/livros \
 
 ## Contato
 
-\[Nícolas Tomaschewski Lopes] — \[[nicolas.tomaschewski@gmail.com](mailto:seu.email@example.com)]
-Projeto disponível em: [https://github.com/seuusuario/api-livros](https://github.com/seuusuario/api-livros)
+Nícolas Tomaschewski Lopes — \[[nicolas.tomaschewski@gmail.com](nicolas.tomaschewski@gmail.com)]
 
 ---
